@@ -97,6 +97,6 @@ git commit -m "Actualización del prototipo técnico"
 git push
 ```
 
-## Texto sugerido para entregar al docente
+
 
 Estimado docente, envío el enlace del repositorio correspondiente al primer prototipo técnico del nivel final de asignatura. El proyecto fue desarrollado en Unity e incluye el nivel en estado de Blocking, además de la mecánica principal programada, que consiste en recoger una llave, abrir una puerta y llegar a la zona final.
