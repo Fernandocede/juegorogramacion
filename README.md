@@ -2,14 +2,12 @@
 
 ## Prototipo técnico completo en Unity
 
-Este repositorio contiene el primer prototipo técnico de un nivel para la asignatura de Realidad Virtual y Videojuegos.
+Este repositorio contiene el primer prototipo técnico de un nivel para la asignatura de programacion de videojuegos.
 
 ## Integrantes
 
-- Integrante 1:
-- Integrante 2:
-- Integrante 3:
-- Integrante 4:
+- Integrante 1: Fernando Rogerio Cedeño Loor
+- Integrante 2: Darwin velez
 
 ## Descripción del proyecto
 
