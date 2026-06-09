@@ -1,0 +1,46 @@
+GUÍA RÁPIDA DE USO
+
+1. Descomprime el archivo ZIP.
+2. Abre Unity Hub.
+3. Clic en Add project from disk.
+4. Selecciona la carpeta Proyecto_Unity_Completo_RV_Videojuegos.
+5. Espera a que Unity compile los scripts.
+6. Abre la escena:
+   Assets/Scenes/Nivel_Prototipo_Completo.unity
+
+Si la escena no se crea automáticamente:
+- En el menú superior de Unity haz clic en:
+  Proyecto Final > Crear o regenerar proyecto completo
+
+MECÁNICA DEL JUEGO
+
+Objetivo:
+- Recoger la llave.
+- Abrir la puerta.
+- Llegar a la zona final.
+
+Controles:
+- W, A, S, D: moverse.
+- Mouse: mirar.
+- Esc: liberar cursor.
+
+QUÉ DEBES MOSTRAR AL DOCENTE
+
+1. Link del repositorio GitHub.
+2. Captura del nivel en Blocking.
+3. Captura o video donde se vea:
+   - Movimiento del jugador.
+   - Llave recogida.
+   - Puerta abierta.
+   - Llegada a la meta.
+
+COMANDOS PARA GITHUB
+
+git init
+git add .
+git commit -m "Creación inicial del proyecto Unity"
+git branch -M main
+git remote add origin URL_DEL_REPOSITORIO
+git push -u origin main
+
+REEMPLAZA URL_DEL_REPOSITORIO POR EL ENLACE DE TU REPOSITORIO DE GITHUB.
